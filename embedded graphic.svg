@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="800" height="600" viewBox="0 0 800 600">
+
+  <text x="20" y="40" font-family="Arial, sans-serif" font-size="24">
+    Dynamic images:
+  </text>
+
+  <image
+    x="20" y="60"
+    width="360" height="240"
+    preserveAspectRatio="xMidYMid meet"
+    href="https://mcv-s.github.io/images/img1.png"
+    xlink:href="https://mcv-s.github.io/images/img1.png" />
+
+  <image
+    x="420" y="60"
+    width="360" height="240"
+    preserveAspectRatio="xMidYMid meet"
+    href="https://mcv-s.github.io/images/img2.png"
+    xlink:href="https://mcv-s.github.io/images/img2.png" />
+
+</svg>
